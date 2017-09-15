@@ -1,1 +1,1 @@
-# parallel-rsync
+# https://gist.github.com/rcoup/5358786
